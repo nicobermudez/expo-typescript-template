@@ -1,5 +1,5 @@
 # expo-typescript-template
-Template for a React Native / Typescript application with Expo's managed workflow
+Template for a React Native / Typescript application with Expo's [Managed Workflow](https://docs.expo.io/introduction/managed-vs-bare/ "Managed Workflow")
 
 # Getting started
 1. Install dependencies with `yarn install`
