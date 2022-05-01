@@ -13,7 +13,7 @@ const HomeContainer = styled.View({
 export const HomeScreen: React.FC = () => {
     return (
         <HomeContainer>
-            <Text>Hey, Nico</Text>
+            <Text>Hey, Nico!</Text>
         </HomeContainer>
     );
 };
